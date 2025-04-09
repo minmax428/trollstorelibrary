@@ -8,7 +8,7 @@ Supported versions: 14.0 beta 2 - 16.6.1, 16.7 RC (20H18), 17.0
 
 ## Installing TrollStore
 
-For installing TrollStore, refer to the guides at ([Guide to Using TrollStore for Permanent IPA Installation on iOS/iPadOS]([https://ipajb.com](https://ipajb.com/blog/guide-to-using-trollstore-for-permanent-ipa-installation-on-ios-ipados-14-0-17-0))
+For installing TrollStore, refer to the guides at ([Guide to Using TrollStore for Permanent IPA Installation on iOS/iPadOS](https://ipajb.com/blog/guide-to-using-trollstore-for-permanent-ipa-installation-on-ios-ipados-14-0-17-0))
 
 16.7.x (excluding 16.7 RC) and 17.0.1+ will NEVER be supported (unless a third CoreTrust bug is discovered, which is unlikely).
 
